@@ -1,4 +1,4 @@
 <? php
 print "hello";
-print "Good";
+print "Good !";
 ?>
